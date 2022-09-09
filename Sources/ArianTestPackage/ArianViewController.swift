@@ -23,7 +23,7 @@ public class ArianViewController: UIViewController {
         view.backgroundColor = .red
         let label = UILabel()
         view.addSubview(label)
-        label.text = "Wuddup, Baker"
+        label.text = "wusssupppp Anthony"
         label.textColor = .black
         label.backgroundColor = .white
         label.translatesAutoresizingMaskIntoConstraints = false
